@@ -24,6 +24,8 @@ public class Main {
         int rok = k.nextInt();
 
        // ArrayList.class
+           // ArrayList.class
+           // ArrayList.class   
 
         Car car = new Car();
         car.getColor();
